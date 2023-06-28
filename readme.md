@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Different AI models<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Frontend, Backend, Cybersecurity, Blockchain and Hosting<br>⚡ Fun fact: IT is dominated by autistic people, like me
+🔭 I’m currently working on Fullstack Applications<br>🌱 I’m currently learning Fullstack<br>💬 Ask me about Frontend, Backend, Cybersecurity, Blockchain and Hosting<br>⚡ Fun fact: IT is dominated by autistic people, like me
 
 
 ## 🌐 Socials:
