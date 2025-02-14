@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Applications<br>🌱 I’m currently learning Fullstack<br>💬 Ask me about Frontend, Backend, Cybersecurity, Blockchain and Hosting<br>⚡ Fun fact: IT is dominated by autistic people, like me
+🔭 I’m currently working on Sotfware Development<br>🌱 I’m currently learning App Development<br>💬 Ask me about Frontend, Backend, Cybersecurity, Blockchain and Hosting<br>⚡ Fun fact: IT is dominated by autistic people, like me
 
 
 ## 🌐 Socials:
